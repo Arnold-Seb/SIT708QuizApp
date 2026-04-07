@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnStart" type="id">@+id/btnStart</item>
+    <item name="etName" type="id">@+id/etName</item>
+    <item name="tvTitle" type="id">@+id/tvTitle</item>
+</resources>
